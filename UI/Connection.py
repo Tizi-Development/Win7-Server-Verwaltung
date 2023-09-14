@@ -42,3 +42,5 @@ class Ui_MainWindow(object):
         MainWindow.setWindowTitle(_translate("MainWindow", "Server Verwaltung"))
         self.label.setText(_translate("MainWindow", "Verbindung zu Server wird aufgebaut..."))
         self.label_2.setText(_translate("MainWindow", "Domain: www.niggi-tizi.dev.de"))
+    
+
